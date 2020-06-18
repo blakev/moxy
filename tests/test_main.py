@@ -3,5 +3,11 @@
 #
 # >>
 #   moxy, 2020
-#   Blake VandeMerwe
+#   LiveViewTech
 # <<
+
+import pytest
+
+
+def test_nothing():
+    assert True

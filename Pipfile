@@ -10,19 +10,14 @@ invoke = "*"
 yapf = "*"
 cython = "*"
 coverage = "*"
-flake8 = "*"
-flake8-quotes = "*"
 isort = "*"
 mypy = "*"
-pycodestyle = "*"
-pyflakes = "*"
 pytest-cov = "*"
-pytest-sugar = "*"
 twine = "*"
+pytest-coverage = "*"
 
 [packages]
 toolz = "*"
-cython = "*"
 
 [requires]
 python_version = "3.8"
